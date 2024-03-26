@@ -82,7 +82,13 @@ az mysql flexible-server create --resource-group MyResourceGroup --name pongaunn
 ![image](https://github.com/juaneortiz1/Lab06CVDS-Calculator/assets/97971732/36cfcfd6-a69c-484f-a3f7-8ed6456da000)
 ![image](https://github.com/juaneortiz1/Lab06CVDS-Calculator/assets/97971732/8a484f2c-df11-43fb-89f3-1997f5912836)
 
+   
  
+
+1. Apago los servicios y me conecto a través de un cliente FTP para subir el archivo JAR de mi aplicación Java.
+![image](https://github.com/juaneortiz1/Lab06CVDS-Calculator/assets/97971732/4038fe5c-c9d5-4fbb-8c03-21c0145c96c2)
+
+---
  
 
 
