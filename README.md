@@ -84,12 +84,7 @@ az mysql flexible-server create --resource-group MyResourceGroup --name pongaunn
 
  
  
-  
- 
 
-1. Apago los servicios y me conecto a través de un cliente FTP para subir el archivo JAR de mi aplicación Java.
-
----
 
 
 
